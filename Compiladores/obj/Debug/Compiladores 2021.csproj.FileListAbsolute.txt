@@ -1,0 +1,10 @@
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\bin\Debug\Compiladores 2019.exe.config
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\bin\Debug\Compiladores 2019.exe
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\bin\Debug\Compiladores 2019.pdb
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\obj\Debug\Compiladores 2021.csprojAssemblyReference.cache
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\obj\Debug\Compiladores_2019.Form1.resources
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\obj\Debug\Compiladores_2019.Properties.Resources.resources
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\obj\Debug\Compiladores 2021.csproj.GenerateResource.cache
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\obj\Debug\Compiladores 2021.csproj.CoreCompileInputs.cache
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\obj\Debug\Compiladores 2019.exe
+C:\Users\luisi\OneDrive\Escritorio\Ronaldo\SEMESTRE VII\Compiladores\PRESENTACION\Proyecto Final DOOES\Compiladores\obj\Debug\Compiladores 2019.pdb
